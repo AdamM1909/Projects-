@@ -63,3 +63,5 @@ if __name__ == "__main__":
     fig, ax = plt.subplots()
     ax.scatter(x[:,2],y)
     ax.scatter(rd[:,2],y)
+    plt.show()
+    print('okay')
